@@ -5,7 +5,7 @@ Labworks Platforms Development / Main Contributors
 Initial Idea
 ------------
 
-The original idea of this platform borned with a regular request for training in Machine Vision to the *CONTINUING EDUCATION* service of the **Institut d'Optique**.
+The original idea of this platform borned with a regular request for training in Machine Vision to the *Continuing Education* service of the **Institut d'Optique**.
 
 This platform was also designed as a main industrial application of image processing for our future engineer in photonics.
 
@@ -26,11 +26,7 @@ Learning outcomes targeted by this platform are for our future engineer :
 Main development
 ----------------
 
-A first platform was developped at LEnsE in 
-
-http://lense.institutoptique.fr/ressources/MINE/Realisations/PIMS/2022_VisionIndustrielle/62765128.png
-
-http://lense.institutoptique.fr/ressources/MINE/Realisations/PIMS/2022_VisionIndustrielle/2022_PIMS_VisionIndustrielle_Poster.pdf
+A first platform was developped at LEnsE as part of a three weeks students project in 2022 by Victoire de SALEON, Flora SILBERZAN, Oscar BOUCHER, Martin COLLIGNON, Samuel GERENTE and Hugo LASSIETTE (promo 2024), framed by **Thierry AVIGNON** and **Julien VILLEMEJANE**. A poster of their work is available by following `this link <http://lense.institutoptique.fr/ressources/MINE/Realisations/PIMS/2022_VisionIndustrielle/2022_PIMS_VisionIndustrielle_Poster.pdf>`_.
 
 Continuous Upgrades
 -------------------
