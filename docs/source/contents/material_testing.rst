@@ -2,8 +2,18 @@ Machine Vision Testing procedures
 =================================
 
 
-Testing the platform
---------------------
+Power supplies
+--------------
 
 
+Lighting system
+---------------
+
+
+Conveyor system
+---------------
+
+
+Image acquisition
+-----------------
 

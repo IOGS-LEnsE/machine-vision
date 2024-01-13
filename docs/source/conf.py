@@ -16,10 +16,10 @@ import sys
 
 # -- Project information -----------------------------------------------------
 
-project = 'Maquettes - LEnsE / IOGS'
+project = 'Machine Vision Platform - LEnsE / IOGS'
 copyright = '2023, Julien Villemejane'
 author = 'Julien Villemejane'
-release = '0.1'
+release = '0.2'
 
 
 # -- General configuration ---------------------------------------------------
