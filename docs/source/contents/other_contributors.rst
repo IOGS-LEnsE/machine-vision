@@ -4,11 +4,8 @@ Light Source Radiant Intensity Measuring Platform
 .. caution::
    This documentation section is still in development
 
-Students Projects
------------------
-
 Machine Learning and first documentation
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+----------------------------------------
 
 In 2023, during his first year of training, **Alexis CORBILLET** (2025 promotion) worked with five others classmates on the beta version of the machine vision bench. 
 
@@ -18,5 +15,9 @@ The entire documentation of their application was written by Alexis using `Sphin
 
 The GitHub repository https://github.com/Alex6Crbt/Industrial_Vision was also developed by Alexis for his own training on GitHub processes. This repository and its documentation served as a basis for setting up this first LEnsE technical repository.
 
-Alexis was helped by **Olivier LEVEQUE**, 
+Alexis was helped by **Olivier LEVEQUE**, researcher at ONERA, the French Aerospace Lab.
+
+
+Students Projects year by year
+------------------------------
 
