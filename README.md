@@ -1,1 +1,15 @@
-# Machine Vision PlatformDocumentation of the pedagogic platform about Machine Vision used during labwors @ LEnsE / IOGS / France## A propos de l'Institut d'Optique et du LEnsELe **LEnsE**, ***Laboratoire d'Enseignement Expérimental***, forme au métier de l’ingénieur en photonique par la pratique : travaux pratiques, projets encadrés… Pour plus d'informations sur cette structure, dépendante de l'Institut d'Optique Graduate School, vous pouvez visiter le site officiel : [Site du LEnsE](http://lense.institutoptique.fr/)
+# Machine Vision Platform
+Documentation of the pedagogic platform about Machine Vision used during labwors @ LEnsE / IOGS / France
+
+Watch the complete documentation [here !!!](https://iogs-lense.github.io/machine-vision/)
+
+
+
+
+## About Institut d'Optique and LEnsE
+The **LEnsE**, ***Laboratoire d'Enseignement Expérimental***, [Website](http://lense.institutoptique.fr/)
+
+
+
+
+
