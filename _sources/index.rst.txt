@@ -14,9 +14,6 @@ The GitHub repository of this project : `Machine Vision <https://github.com/IOGS
 
 |
 
-GUI Tutorials
--------------
-
 .. toctree::
    :maxdepth: 1
    :caption: Machine Vision
@@ -48,9 +45,3 @@ About the LEnsE
 ---------------
 
 The **Experimental Teaching Laboratory** (*LEnsE*, for *Laboratoire d’ENSeignement Expérimental*) is a major structure of the *Institut d'Optique* engineering school. It offers remarkably strong training that contributes 25% of the total curriculum. It is an impressive structure where students have access to a large diversity of material and human resources to be able to gain the skills to become excellent experimenters recognized in their field.
-
-
-About Digital Methods at IOGS
------------------------------
-
-This is a test.
