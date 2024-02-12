@@ -58,6 +58,7 @@
 <li class="toctree-l3"><a class="reference internal" href="#pinouts">Pinouts</a></li>
 </ul>
 </li>
+<li class="toctree-l2"><a class="reference internal" href="#step-motor-of-the-conveyor">Step-motor of the conveyor</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#power-stage-and-step-motor-driver">Power stage and step motor driver</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#presence-sensors">Presence sensors</a></li>
 <li class="toctree-l2"><a class="reference internal" href="#communication">Communication</a><ul>
@@ -119,9 +120,13 @@
 </figure>
 </section>
 </section>
+<section id="step-motor-of-the-conveyor">
+<h2>Step-motor of the conveyor<a class="headerlink" href="#step-motor-of-the-conveyor" title="Link to this heading"></a></h2>
+<p>The step-motor must be powered by a <strong>4.6</strong> to <strong>4.8 V</strong> continuous source, connected to the … connector of the board.</p>
+</section>
 <section id="power-stage-and-step-motor-driver">
 <h2>Power stage and step motor driver<a class="headerlink" href="#power-stage-and-step-motor-driver" title="Link to this heading"></a></h2>
-<p>Two step-motors (type xxx - xV power supply) can be controlled independently  by two <strong>TMC2100</strong> (<a class="reference external" href="https://fr.farnell.com/trinamic/tmc-silentstepstick/carte-driver-moteur-pas-a-pas/dp/2822153">Kit TMC Silent Step Stick</a>) drivers.</p>
+<p>Two step-motors can be controlled independently  by two <strong>TMC2100</strong> (<a class="reference external" href="https://fr.farnell.com/trinamic/tmc-silentstepstick/carte-driver-moteur-pas-a-pas/dp/2822153">Kit TMC Silent Step Stick</a>) drivers.</p>
 <p>The first driver (<strong>Motor 1</strong>) can be configured by CFG1, CFG2 and CFG3 pins (see <a class="reference external" href="https://www.utmel.com/productdetail/trinamicmotioncontrolgmbh-tmc2100tat-5369295?utm_source=bing&amp;utm_medium=cpc&amp;utm_campaign=Utmel-octop-T~Z-ic-3.28(2229)&amp;utm_term=TMC2100-TA-T&amp;utm_content=T~Z-Integrated+Circuits-3.28">TMC2100 Documentation</a>).
 The second driver (<strong>Motor 2</strong>) is already set up as CFG3=open (<em>External reference voltage on pin AIN</em>), CFG2/1=0b01 (<em>HalfSteps</em>).</p>
 <table class="docutils align-default" id="id3">

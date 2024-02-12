@@ -20,6 +20,10 @@ This platform is mainly based on a **Dobot conveyor** that permits to transport 
 Step Motor
 """"""""""
 
+A **step-motor** is used to move the conveyor. It is driven by a **TMC SILENTSTEPSTICK** from *Analog Devices*.
+
+The step-motor must be powered up by a 4.6 to 4.8 V power supply.
+
 Sensors
 """""""
 
