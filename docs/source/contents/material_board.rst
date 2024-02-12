@@ -18,11 +18,19 @@ Pinouts
    :align: center
    
    Pinouts of the board
+   
+Step-motor of the conveyor
+--------------------------
+
+The step-motor must be powered by a **4.6** to **4.8 V** continuous source, connected to the ... connector of the board.
+
+
+   
 
 Power stage and step motor driver
 ---------------------------------
 
-Two step-motors (type xxx - xV power supply) can be controlled independently  by two **TMC2100** (`Kit TMC Silent Step Stick <https://fr.farnell.com/trinamic/tmc-silentstepstick/carte-driver-moteur-pas-a-pas/dp/2822153>`_) drivers.
+Two step-motors can be controlled independently  by two **TMC2100** (`Kit TMC Silent Step Stick <https://fr.farnell.com/trinamic/tmc-silentstepstick/carte-driver-moteur-pas-a-pas/dp/2822153>`_) drivers.
 
 The first driver (**Motor 1**) can be configured by CFG1, CFG2 and CFG3 pins (see `TMC2100 Documentation <https://www.utmel.com/productdetail/trinamicmotioncontrolgmbh-tmc2100tat-5369295?utm_source=bing&utm_medium=cpc&utm_campaign=Utmel-octop-T~Z-ic-3.28(2229)&utm_term=TMC2100-TA-T&utm_content=T~Z-Integrated+Circuits-3.28>`_).
 The second driver (**Motor 2**) is already set up as CFG3=open (*External reference voltage on pin AIN*), CFG2/1=0b01 (*HalfSteps*).
@@ -82,6 +90,8 @@ An external power supply must be connected to the J5 connector (VMOT). This nomi
 
 
 More details on the `TMC2100 Documentation <https://www.utmel.com/productdetail/trinamicmotioncontrolgmbh-tmc2100tat-5369295?utm_source=bing&utm_medium=cpc&utm_campaign=Utmel-octop-T~Z-ic-3.28(2229)&utm_term=TMC2100-TA-T&utm_content=T~Z-Integrated+Circuits-3.28>`_.
+
+
 
 
 Presence sensors
