@@ -91,7 +91,7 @@ An external power supply must be connected to the J5 connector (VMOT). This nomi
 
 More details on the `TMC2100 Documentation <https://www.utmel.com/productdetail/trinamicmotioncontrolgmbh-tmc2100tat-5369295?utm_source=bing&utm_medium=cpc&utm_campaign=Utmel-octop-T~Z-ic-3.28(2229)&utm_term=TMC2100-TA-T&utm_content=T~Z-Integrated+Circuits-3.28>`_.
 
-
+A library for TMC2100 and an example of use is available : `TMC2100 Library and example <https://github.com/IOGS-LEnsE/machine-vision/blob/main/progs/step_motor_tmc2100/step_motor_tmc2100.zip>`_.
 
 
 Presence sensors
