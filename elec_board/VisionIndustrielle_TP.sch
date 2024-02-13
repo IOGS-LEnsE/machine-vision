@@ -1509,4 +1509,8 @@ Text GLabel 6250 3600 2    50   Input ~ 0
 EN_NUC
 Wire Wire Line
 	6150 3300 6250 3300
+Text GLabel 6250 3800 2    50   Input ~ 0
+STEP_NUC
+Wire Wire Line
+	6150 3800 6250 3800
 $EndSCHEMATC
