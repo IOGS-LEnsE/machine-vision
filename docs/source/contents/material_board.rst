@@ -184,7 +184,7 @@ A M12-5pins connector is used to control and power the ring. The power supply is
      - ECLAIR 3
      - PH_1
 
-Lights are activated on a low-level state of the previous outputs (output = 0).
+Lights are activated on a **low-level state** of the previous outputs (output = 0).
 
 An external power supply must be connected to the J19 connector (V_ECLAIRAGE). The nominal supply for the EFFi-Ring source is 24V.
 

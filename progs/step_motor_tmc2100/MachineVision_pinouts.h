@@ -15,13 +15,19 @@
  *          https://github.com/IOGS-LEnsE/machine-vision
  */
 
+#ifndef     __MACHINE_VISION_PINOUTS_H__
+#define     __MACHINE_VISION_PINOUTS_H__
+
 #include "mbed.h"
 #include "StepMotor_TMC2100.h"
+
+#define     DEBUG       true
 
 // Step-Motor Driver / Motor 1
 DigitalOut      en(PB_13);
 DigitalOut      dir(PB_3);
 PwmOut          step(PA_10);
+InterruptIn       step_in(PC_4);
 StepMotor_TMC2100   my_motor(&en, &dir, &step, false);
 DigitalOut      M1_CFG1(PB_14);
 DigitalOut      M1_CFG2(PB_15);
@@ -39,3 +45,4 @@ InterruptIn     Pres_Sensor_1(PC_14);
 InterruptIn     Pres_Sensor_2(PC_15);
 InterruptIn     Pres_Sensor_3(PH_0);
 
+#endif
