@@ -73,7 +73,7 @@ Une première version d’une interface de commande (obsolète) des caméras IDS
 Partie matérielle
 ~~~~~~~~~~~~~~~~~
 
-* Comprendre le fonctionnement d'un moteur pas à pas (indépendamment de ceux de la table) - `Vidéo < https://www.youtube.com/watch?v=eyqwLiowZiU>`_
+* Comprendre le fonctionnement d'un moteur pas à pas (indépendamment de ceux de la table) - `Vidéo <https://www.youtube.com/watch?v=eyqwLiowZiU>`_
 * Etudier les signaux à appliquer sur le moteur pas à pas pour l'entrainer en rotation
 * Etudier le driver `**TMCSILENTSTEPSTICK** <https://fr.farnell.com/trinamic/tmc-silentstepstick/carte-driver-moteur-pas-a-pas/dp/2822153>`_ (basé  sur un composant de type **TMC2100**) et l'associer au moteur pas à pas
 * Voir aussi les tutoriels associés aux cartes Nucléo parlant des étages de puissance
