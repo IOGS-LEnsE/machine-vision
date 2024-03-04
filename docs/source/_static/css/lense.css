@@ -1,3 +1,8 @@
+/* Left menu */
+.wy-nav-side{
+	background-color: rgb(10, 50, 80);		/* IOGS Violet */
+}
+
 .wy-menu-vertical p.caption{
 	color: rgb(255, 150, 10); 	/* IOGS Orange */
 }
